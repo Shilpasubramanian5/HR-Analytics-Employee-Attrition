@@ -41,6 +41,14 @@ The analysis uses Python, SQL, and Power BI to explore employee data, calculate 
 ## AI-Assisted Insights
 
 Generative AI is used to interpret calculated results, identify important patterns, and formulate business-focused insights and recommendations.
+### Insight 1: Overtime and Employee Attrition
+
+Employees working overtime showed a higher attrition rate (30.53%) compared with employees not working overtime (10.44%).
+
+**Business Interpretation:** Overtime status is associated with a higher attrition rate in this dataset.
+
+**Recommendation:** Organizations can review overtime patterns, workload distribution, and employee well-being to identify opportunities for improving employee retention.
+
 
 ## Project Files
 
