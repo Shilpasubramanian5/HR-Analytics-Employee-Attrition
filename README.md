@@ -100,6 +100,9 @@ Employees living 21+ km from the workplace had an attrition rate of 22.06%, whil
 **Business Interpretation:** Longer commuting distance was associated with a comparatively higher attrition rate in this dataset.
 
 **Recommendation:** Organizations can consider flexible work arrangements, transportation support, or hybrid work options where appropriate.
+## Power BI Dashboard
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ## Project Files
 
